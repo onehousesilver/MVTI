@@ -96,9 +96,7 @@
 
 ###### 1.4 검색 기능
 
-![ezgif.com-gif-maker (5)](README.assets/ezgif.com-gif-maker (5).gif)
-
-
+![serach](README.assets/serach.gif)
 
 - 우측상단에서 검색가능, `input`값을 그대로 가져와서 검색결과에 보여줌
 - `input 검색결과` 식으로 화면에 출력하여 사용자가 어떤 키워드를 검색했는지 확인 가능 
