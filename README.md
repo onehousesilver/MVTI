@@ -164,7 +164,9 @@ getAllMyLists: function () {
 - 영화 포스터 옆에 `사용자 MBTI pick!` 이라는 로고를 띄어줘서 해당 영화의 리뷰를 가장 많이 단 유저의 MBTI를 보여줌 
 - 바로 아래 리뷰를 달 수 있게해서 사용자가 영화에 대한 리뷰를 작성할 수 있고, 바로 댓글을 달 수 있음
 
-###### 2.1 영화 디테일 (영화정보, 평점)<img src="README.assets/moviedetail.gif" alt="moviedetail" style="zoom:150%;" />
+###### 2.1 영화 디테일 (영화정보, 평점)
+
+###### <img src="README.assets/moviedetail.gif" alt="moviedetail" style="zoom:150%;" />
 
 - TMDB에서 제공해주는 영화 제목, 원제, 줄거리, 장르를 상세페이지에 삽입
 - 트레일러가 있는 영상의 경우 트레일러를 같이 보여줌으로써 사용자 편의 향상
@@ -263,7 +265,9 @@ getAllMyLists: function () {
 
 - 관련 영화를 순서대로 띄어줌 (키워드 관련)
 
-##### 6. Sign up & Login & Logout<img src="README.assets/loggg.gif" alt="loggg" style="zoom:150%;" />
+##### 6. Sign up & Login & Logout
+
+##### <img src="README.assets/loggg.gif" alt="loggg" style="zoom:150%;" />
 
 - 회원가입할 때 
   1. 입력 안한 곳이 있거나
@@ -296,7 +300,7 @@ getAllMyLists: function () {
 
 ![image-20211125215007872](README.assets/image-20211125215007872.png)
 
-![image-20211125215027563](README.assets/image-20211125215027563.png)노션을 활용해서 어떤걸 해야할지 이슈를 최대한 정리해가면서 프로젝트 구축
+![image-20211125215027563](README.assets/image-20211125215027563.png)👤노션을 활용해서 어떤걸 해야할지 이슈를 최대한 정리해가면서 프로젝트 구축
 
 
 
